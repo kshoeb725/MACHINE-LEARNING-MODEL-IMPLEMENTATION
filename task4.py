@@ -44,4 +44,4 @@ if st.button('Validate'):
 
 # write in terminal streamlit run filename to open the web 
     
-#try using this for spam email example : Congratulations, you won a lottery
+#try using this example for spam email  : Congratulations, you won a lottery

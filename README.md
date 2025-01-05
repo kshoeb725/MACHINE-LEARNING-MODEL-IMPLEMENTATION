@@ -49,7 +49,7 @@ This script demonstrates the implementation of a machine learning-based **spam d
 
 ---
 
-### Professional Conclusion  
+###  Conclusion  
 
 This script effectively demonstrates the integration of machine learning techniques with real-world applications in text classification. The use of **Multinomial Naive Bayes** ensures a computationally efficient solution for spam detection, while **Streamlit** enhances accessibility by providing an intuitive interface.  
 

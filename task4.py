@@ -42,4 +42,6 @@ if st.button('Validate'):
     st.markdown(f"**Result:** {output}")
 
 
+# write in terminal streamlit run filename to open the web 
+    
 #try using this for spam email example : Congratulations, you won a lottery
